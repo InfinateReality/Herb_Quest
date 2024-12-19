@@ -1,0 +1,15 @@
+{
+"companyName": "Infinate Reality",
+"productName": "Herb_Quest",
+"productVersion": "0.1",
+"dataUrl": "Herb_Quest.data.unityweb",
+"wasmCodeUrl": "Herb_Quest.wasm.code.unityweb",
+"wasmFrameworkUrl": "Herb_Quest.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
